@@ -8,4 +8,4 @@ Welcome to the Turtle Race Game! This simple game lets you bet on which colored 
 3. Navigate to the directory where `turtle_race_game.py` is located.
 4. Run the game using Python:
    ```bash
-   python turtle_race_game.py
+   py turtle_race_game.py
